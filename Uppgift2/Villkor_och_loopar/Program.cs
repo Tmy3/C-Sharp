@@ -12,6 +12,7 @@ namespace Villkor_och_loopar
     {
         static void Main(string[] args)
         {
+            Console.Title = "Maraton!";
             var x = Console.ReadLine();
 
             
